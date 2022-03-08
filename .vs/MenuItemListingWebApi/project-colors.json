@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc27916e-863e-48bd-aef5-fe63e1b21796": {
+      "ProjectGuid": "dc27916e-863e-48bd-aef5-fe63e1b21796",
+      "DisplayName": "MenuItemListingWebApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
